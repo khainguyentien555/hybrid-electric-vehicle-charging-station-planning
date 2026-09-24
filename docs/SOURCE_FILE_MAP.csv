@@ -1,0 +1,34 @@
+original_archive_path,repository_path
+Code CPLEX/Thuat toan Branch and Cut/EVCS_BranchandCut.mod,cplex/branch_and_cut/EVCS_BranchandCut.mod
+Code CPLEX/Thuat toan hybrid de xuat/Hybrid.mod,cplex/hybrid/Hybrid.mod
+Code CPLEX/Thuat toan hybrid de xuat/evcs_hybrid.dat,cplex/hybrid/evcs_hybrid.dat
+Code Matlab/Thuat toan HBIPSO-GR/Run_HBIPSO_EVCS.m,matlab/hbipso_gr/Run_HBIPSO_EVCS.m
+Code Matlab/Thuat toan HBIPSO-GR/hbipso_gr_evcs.m,matlab/hbipso_gr/hbipso_gr_evcs.m
+Code Matlab/Thuat toan HBIPSO-GR/Input_data_HBIPSO.m,matlab/hbipso_gr/Input_data_HBIPSO.m
+Code Matlab/Thuat toan HBIPSO-GR/Split_Charger.m,matlab/hbipso_gr/Split_Charger.m
+Code Matlab/Thuat toan HBIPSO-GR/post_split_chargers_by_type.m,matlab/hbipso_gr/post_split_chargers_by_type.m
+Code Matlab/Thuat toan HBIPSO-GR/hbipso2cplex_bridge.m,matlab/hbipso_gr/hbipso2cplex_bridge.m
+Code Matlab/Thuat toan HBIPSO-GR/hbipso_to_cplex_hybrid.m,matlab/hbipso_gr/hbipso_to_cplex_hybrid.m
+Code Matlab/Thuat toan HBIPSO-GR/export_evcs_to_opl_dat.m,matlab/hbipso_gr/export_evcs_to_opl_dat.m
+Code Matlab/Thuat toan HBIPSO-GR/make_opl_dat_from_hbipso.m,matlab/hbipso_gr/make_opl_dat_from_hbipso.m
+Code Matlab/Thuat toan HBIPSO-GR/merge_dat_into_onefile_mod.m,matlab/hbipso_gr/merge_dat_into_onefile_mod.m
+Code Matlab/Thuat toan HBIPSO-GR/prep_evcs_from_cplex_embed.m,matlab/hbipso_gr/prep_evcs_from_cplex_embed.m
+Code Matlab/Thuat toan HBIPSO-GR/viz_evcs_by_type.m,matlab/hbipso_gr/viz_evcs_by_type.m
+Code Matlab/Thuat toan HBIPSO-GR/viz_evcs_results.m,matlab/hbipso_gr/viz_evcs_results.m
+Mo phong Monte Carlo/(2030) EV_SCF_Monte Carlo Simulation.xlsx,data/monte_carlo/scf_2030.xlsx
+Mo phong Monte Carlo/(2035) EV_SCF_Monte Carlo Simulation.xlsx,data/monte_carlo/scf_2035.xlsx
+Mo phong Monte Carlo/(2040) EV_SCF_Monte Carlo Simulation.xlsx,data/monte_carlo/scf_2040.xlsx
+Mo phong Monte Carlo/20241224_Max. Demand_Rev 3 (with CF).xlsx,data/monte_carlo/max_demand_with_cf.xlsx
+Code Matlab/Thuat toan HBIPSO-GR/evcs_data.mat,data/intermediate/evcs_data.mat
+Code Matlab/Thuat toan HBIPSO-GR/evcs_hybrid.dat,data/intermediate/evcs_hybrid_from_matlab.dat
+Code Matlab/Thuat toan HBIPSO-GR/chargers_per_station.csv,results/optimization/chargers_per_station.csv
+Code Matlab/Thuat toan HBIPSO-GR/chargers_by_type_per_station.csv,results/optimization/chargers_by_type_per_station.csv
+Code Matlab/Thuat toan HBIPSO-GR/hbipso_best.mat,results/optimization/hbipso_best.mat
+Code Matlab/Thuat toan HBIPSO-GR/Result_3 Methods.xlsx,results/optimization/three_method_comparison.xlsx
+Mo hinh PowerWorld/EV_PowerWorld_Comparison.xlsx,results/powerworld/ev_powerworld_comparison.xlsx
+Mo hinh PowerWorld/Kich ban co EV/With EV.PWB,powerworld/cases/with_ev.pwb
+Mo hinh PowerWorld/Kich ban khong co EV/Non EV.PWB,powerworld/cases/without_ev.pwb
+Mo hinh PowerWorld/Kich ban co EV/NewOne7.pwd,powerworld/displays/with_ev.pwd
+Mo hinh PowerWorld/Kich ban khong co EV/NewOne5.pwd,powerworld/displays/without_ev.pwd
+Code Matlab/Thuat toan HBIPSO-GR/flowchart.pptx,figures/source/algorithm_flowchart.pptx
+Code Matlab/Thuat toan HBIPSO-GR/LIỆT KÊ XE KO LIET KE CONG SUAT TRAM.png,figures/reference/ev_assignment_reference.png

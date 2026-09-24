@@ -1,0 +1,3 @@
+case_id,scenario,case_file,display_file,description,original_archive_path
+BASE_NO_EV,Without EV charging load,powerworld/cases/without_ev.pwb,powerworld/displays/without_ev.pwd,Baseline distribution-network case without EV charging load,Mo hinh PowerWorld/Kich ban khong co EV/Non EV.PWB
+WITH_EV,With EV charging load,powerworld/cases/with_ev.pwb,powerworld/displays/with_ev.pwd,Distribution-network case with EV charging load used for comparison,Mo hinh PowerWorld/Kich ban co EV/With EV.PWB

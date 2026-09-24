@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+
+message: >
+  If you use this repository or its computational materials, please cite
+  the associated master's thesis.
+
+title: "Hybrid Optimization for EV Charging Station Planning — Master's Thesis Reproducibility Package"
+
+type: software
+
+authors:
+  - family-names: "Nguyen"
+    given-names: "Tien-Khai"
+
+version: 1.0.0
+
+repository-code: "https://github.com/khainguyentien555/evcs-optimization-master-thesis"
+url: "https://github.com/khainguyentien555/evcs-optimization-master-thesis"
+
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: "Nguyen"
+      given-names: "Tien-Khai"
+  title: "Research on Electric Vehicle Charging Infrastructure Planning in Urban Areas"
+  institution:
+    name: "Ho Chi Minh City University of Technology and Education"
+  year: 2026
