@@ -14,8 +14,8 @@ authors:
 
 version: 1.0.0
 
-repository-code: "https://github.com/khainguyentien555/evcs-optimization-master-thesis"
-url: "https://github.com/khainguyentien555/evcs-optimization-master-thesis"
+repository-code: "https://github.com/khainguyentien555/hybrid-electric-vehicle-charging-station-planning"
+url: "https://github.com/khainguyentien555/hybrid-electric-vehicle-charging-station-planning"
 
 preferred-citation:
   type: thesis
@@ -24,5 +24,6 @@ preferred-citation:
       given-names: "Tien-Khai"
   title: "Research on Electric Vehicle Charging Infrastructure Planning in Urban Areas"
   institution:
-    name: "Ho Chi Minh City University of Technology and Education"
+    name: "Ho Chi Minh City University of Technology and Engineering"
+  thesis-type: "Master's thesis"
   year: 2026
