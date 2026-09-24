@@ -3,12 +3,13 @@
 ## Thesis
 
 **Research on Electric Vehicle Charging Infrastructure Planning in Urban Areas**  
-**Author:** Tien-Khai Nguyen  
+**Author:** Tien-Khai Nguyen
+**Supervisor:** Trong-Nghia Le
 **Institution:** Ho Chi Minh City University of Technology and Engineering (HCMUTE), Ho Chi Minh City, Vietnam  
 **Year:** 2026
 
 
-[![Archival Integrity Validation](https://github.com/khainguyentien555/evcs-optimization-master-thesis/actions/workflows/validate.yml/badge.svg)](https://github.com/khainguyentien555/evcs-optimization-master-thesis/actions/workflows/validate.yml)
+[![Archival Integrity Validation](https://github.com/khainguyentien555/hybrid-electric-vehicle-charging-station-planning/actions/workflows/validate.yml/badge.svg)](https://github.com/khainguyentien555/hybrid-electric-vehicle-charging-station-planning/actions/workflows/validate.yml)
 
 **Code, data, optimization models, numerical results, and PowerWorld cases supporting the computational workflow of the master's thesis.**
 
