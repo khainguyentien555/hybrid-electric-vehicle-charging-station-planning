@@ -3,9 +3,10 @@
 ## Thesis
 
 **Research on Electric Vehicle Charging Infrastructure Planning in Urban Areas**  
-**Author:** Tien-Khai Nguyen**
-**Supervisor:** Trong-Nghia Le**
-**Institution:** Ho Chi Minh City University of Technology and Engineering (HCMUTE), Ho Chi Minh City, Vietnam**
+
+**Author:** Tien-Khai Nguyen** 
+**Supervisor:** Trong-Nghia Le** 
+**Institution:** Ho Chi Minh City University of Technology and Engineering (HCMUTE), Ho Chi Minh City, Vietnam** 
 **Year:** 2026
 
 
