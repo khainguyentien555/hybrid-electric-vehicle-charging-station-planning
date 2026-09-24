@@ -4,7 +4,7 @@
 
 **Research on Electric Vehicle Charging Infrastructure Planning in Urban Areas**  
 **Author:** Tien-Khai Nguyen  
-**Institution:** Ho Chi Minh City University of Technology and Education (HCMUTE), Ho Chi Minh City, Vietnam  
+**Institution:** Ho Chi Minh City University of Technology and Engineering (HCMUTE), Ho Chi Minh City, Vietnam  
 **Year:** 2026
 
 
@@ -13,7 +13,7 @@
 **Code, data, optimization models, numerical results, and PowerWorld cases supporting the computational workflow of the master's thesis.**
 
 **Associated thesis:**  
-Tien-Khai Nguyen, **“Research on Electric Vehicle Charging Infrastructure Planning in Urban Areas”** (*Planning of Electric Vehicle Charging Station Infrastructure in Urban Areas*), Master's thesis in Electrical Engineering, Ho Chi Minh City University of Technology and Education, Ho Chi Minh City, Vietnam, 2026.
+Tien-Khai Nguyen, **“Research on Electric Vehicle Charging Infrastructure Planning in Urban Areas”** (*Planning of Electric Vehicle Charging Station Infrastructure in Urban Areas*), Master's thesis in Electrical Engineering, Ho Chi Minh City University of Technology and Engineering, Ho Chi Minh City, Vietnam, 2026.
 
 ## What this repository reproduces
 
@@ -136,7 +136,7 @@ See [`docs/PROVENANCE_AND_EXCLUSIONS.md`](docs/PROVENANCE_AND_EXCLUSIONS.md).
 
 Please cite the associated thesis when using this repository's computational materials:
 
-> T.-K. Nguyen, “Research on Electric Vehicle Charging Infrastructure Planning in Urban Areas,” Master's thesis, Ho Chi Minh City University of Technology and Education, Ho Chi Minh City, Vietnam, 2026.
+> T.-K. Nguyen, “Research on Electric Vehicle Charging Infrastructure Planning in Urban Areas,” Master's thesis, Ho Chi Minh City University of Technology and Engineering, Ho Chi Minh City, Vietnam, 2026.
 
 Machine-readable metadata are provided in [`CITATION.cff`](CITATION.cff) and [`citation.bib`](citation.bib).
 
